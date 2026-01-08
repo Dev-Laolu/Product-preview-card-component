@@ -42,7 +42,7 @@ Users should be able to:
 ### Links
 
 - **Live Site URL:** https://sites.google.com/view/laoluthecreator/  
-- **Solution URL:** https://dev-laolu.github.io/Blog-preview-card  
+- **Solution URL:** https://dev-laolu.github.io/Product-preview-card-component/  
 
 ---
 
