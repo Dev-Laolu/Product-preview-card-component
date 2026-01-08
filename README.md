@@ -1,4 +1,4 @@
-# Frontend Mentor – Blog Preview Card Solution
+# Frontend Mentor – Product-preview-card-component
 
 This project is a solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). The goal of this challenge is to build a responsive blog preview card that closely matches the provided design while following accessibility and best practices.
 
