@@ -36,7 +36,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog Preview Card Screenshot](./preview.jpg)
+![Screenshot](./design/desktop-design.jpg)
+![Screenshot](./design/mobile-design.jpg)
 
 ### Links
 
